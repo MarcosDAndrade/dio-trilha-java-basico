@@ -1,0 +1,12 @@
+package Iphone.Telefone;
+
+public interface aparelhoTelefonico {
+	
+	public void tocar();
+	
+	public void atender();
+	
+	public void iniciarCorreioVoz();
+	
+
+}
