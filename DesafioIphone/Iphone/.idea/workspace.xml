@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06b4e54e-45c1-4d22-8fa4-0a99c226135b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Contador/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Contador/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/Iphone/Iphone1/Sistema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/Iphone/Midia/ReprodutorMusical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/Iphone/Navegacao/navegadorInternet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/Iphone/Telefone/aparelhoTelefonico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/Iphone1/Iphone1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/Iphone/Iphone1/Sistema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/Iphone/Midia/ReprodutorMusical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/Iphone/Navegacao/navegadorInternet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/Iphone/Telefone/aparelhoTelefonico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/Iphone1/Iphone1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/module-info.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2jlRpyeD9PD30pQbmcVZSxQ3Whr" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/marco/OneDrive/Área de Trabalho/DIO/Estudos dio/DesafioIphone"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06b4e54e-45c1-4d22-8fa4-0a99c226135b" name="Changes" comment="" />
+      <created>1721959863449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721959863449</updated>
+    </task>
+    <servers />
+  </component>
+</project>
