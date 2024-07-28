@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeced936-1645-4ec2-9226-5d3361c43def" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../DesafioContaBanco/out/production/ContaBanco/ContaTerminal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DesafioContaBanco/out/production/ContaBanco/ContaTerminal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/Iphone/Iphone1/Sistema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/Iphone/Midia/ReprodutorMusical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/Iphone/Navegacao/navegadorInternet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/Iphone/Telefone/aparelhoTelefonico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/Iphone1/Iphone1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/Iphone/Iphone1/Sistema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/Iphone/Midia/ReprodutorMusical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/Iphone/Navegacao/navegadorInternet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/Iphone/Telefone/aparelhoTelefonico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/Iphone1/Iphone1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioIphone/Iphone/src/module-info.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,15 +37,15 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Contador.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/marco/OneDrive/Área de Trabalho/DIO/Estudos dio/DesafioContaBanco&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Contador.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/marco/OneDrive/Área de Trabalho/DIO/Estudos dio/Iphone"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
